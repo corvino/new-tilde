@@ -1,0 +1,20 @@
+df_clr="\[\e[0m\]"
+
+black="\[\e[0;30m\]"
+red="\[\e[0;31m\]"
+green="\[\e[0;32m\]"
+yellow="\[\e[0;33m\]"
+blue="\[\e[0;34m\]"
+magenta="\[\e[0;35m\]"
+cyan="\[\e[0;36m\]"
+white="\[\e[0;37m\]"
+
+# Light or dark or bold; can depent on the term. So a for alt.
+a_black="\[\e[1;30m\]"
+a_red="\[\e[1;31m\]"
+a_green="\[\e[1;32m\]"
+a_yellow="\[\e[1;33m\]"
+a_blue="\[\e[1;34m\]"
+a_magenta="\[\e[1;35m\]"
+a_cyan="\[\e[1;36m\]"
+a_white="\[\e[1;37m\]"

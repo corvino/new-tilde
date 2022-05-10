@@ -1,0 +1,16 @@
+[user]
+    name =
+    email =
+
+[color]
+    diff = auto
+    status = auto
+    branch = auto
+    interactive = auto
+
+[core]
+    excludesfile = ~/.gitexclude
+
+[alias]
+    plog = log --pretty=format:'%h %ae %s' --graph
+    tlog = log --date=local --pretty=format:'%h %ae %ad %s' --graph
